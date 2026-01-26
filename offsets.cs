@@ -1,11 +1,11 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-24 04:55:19.961343400 UTC
+// 2026-01-25 21:11:42.105397500 UTC
 
 namespace CS2Dumper.Offsets {
     // Module: client.dll
     public static class ClientDll {
         public const nint dwCSGOInput = 0x23123E0;
-        public const nint dwEntityList = 0x21C4AF8;
+        public const nint dwEntityList = 0x24A7B48;
         public const nint dwGameEntitySystem = 0x24A7B48;
         public const nint dwGameEntitySystem_highestEntityIndex = 0x20A0;
         public const nint dwGameRules = 0x23035F0;
@@ -25,7 +25,7 @@ namespace CS2Dumper.Offsets {
     // Module: engine2.dll
     public static class Engine2Dll {
         public const nint dwBuildNumber = 0x606504;
-        public const nint dwNetworkGameClient = 0x900FEF;
+        public const nint dwNetworkGameClient = 0x900FF0;
         public const nint dwNetworkGameClient_clientTickCount = 0x378;
         public const nint dwNetworkGameClient_deltaTick = 0x24C;
         public const nint dwNetworkGameClient_isBackgroundMap = 0x2C141F;

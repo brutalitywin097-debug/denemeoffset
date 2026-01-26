@@ -13,9 +13,6 @@
     "Source2ClientPrediction001": 33957728,
     "Source2ClientUI001": 34028512
   },
-  "crashhandler64.dll": {
-    "": 18446603342651195399
-  },
   "engine2.dll": {
     "BenchmarkService001": 6342160,
     "BugService001": 9181232,
@@ -154,7 +151,6 @@
     "SteamAudio001": 2475072
   },
   "steamclient64.dll": {
-    "CLIENTENGINE_INTERFACE_VERSION005": 18446744071758485818,
     "IVALIDATE001": 23523496,
     "SteamClient006": 23512496,
     "SteamClient007": 23512504,
@@ -185,6 +181,9 @@
   },
   "v8system.dll": {
     "Source2V8System001": 202416
+  },
+  "vconcomm.dll": {
+    "VConComm001": 234816
   },
   "vphysics2.dll": {
     "VPhysics2_Handle_Interface_001": 4186400,

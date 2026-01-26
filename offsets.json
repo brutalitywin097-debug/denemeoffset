@@ -1,7 +1,7 @@
 {
   "client.dll": {
     "dwCSGOInput": 36774880,
-    "dwEntityList": 35408632,
+    "dwEntityList": 38435656,
     "dwGameEntitySystem": 38435656,
     "dwGameEntitySystem_highestEntityIndex": 8352,
     "dwGameRules": 36713968,
@@ -20,7 +20,7 @@
   },
   "engine2.dll": {
     "dwBuildNumber": 6317316,
-    "dwNetworkGameClient": 9441263,
+    "dwNetworkGameClient": 9441264,
     "dwNetworkGameClient_clientTickCount": 888,
     "dwNetworkGameClient_deltaTick": 588,
     "dwNetworkGameClient_isBackgroundMap": 2888735,

@@ -1,9 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-24 04:55:19.961343400 UTC
+// 2026-01-25 21:11:42.105397500 UTC
 
 #pragma once
 
 #include <cstddef>
+#include <cstdint>
 
 namespace cs2_dumper {
     // Module: client.dll

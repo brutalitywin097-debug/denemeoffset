@@ -1,9 +1,10 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-24 04:55:19.961343400 UTC
+// 2026-01-25 21:11:42.105397500 UTC
 
 #pragma once
 
 #include <cstddef>
+#include <cstdint>
 
 namespace cs2_dumper {
     namespace interfaces {
@@ -22,10 +23,6 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t Source2ClientConfig001 = 0x2285710;
             constexpr std::ptrdiff_t Source2ClientPrediction001 = 0x2062760;
             constexpr std::ptrdiff_t Source2ClientUI001 = 0x2073BE0;
-        }
-        // Module: crashhandler64.dll
-        namespace crashhandler64_dll {
-            constexpr std::ptrdiff_t  = 0xFFFF80017F420007;
         }
         // Module: engine2.dll
         namespace engine2_dll {
@@ -190,7 +187,6 @@ namespace cs2_dumper {
         }
         // Module: steamclient64.dll
         namespace steamclient64_dll {
-            constexpr std::ptrdiff_t CLIENTENGINE_INTERFACE_VERSION005 = 0xFFFFFFFF8BB5193A;
             constexpr std::ptrdiff_t IVALIDATE001 = 0x166F0A8;
             constexpr std::ptrdiff_t SteamClient006 = 0x166C5B0;
             constexpr std::ptrdiff_t SteamClient007 = 0x166C5B8;
@@ -223,6 +219,10 @@ namespace cs2_dumper {
         // Module: v8system.dll
         namespace v8system_dll {
             constexpr std::ptrdiff_t Source2V8System001 = 0x316B0;
+        }
+        // Module: vconcomm.dll
+        namespace vconcomm_dll {
+            constexpr std::ptrdiff_t VConComm001 = 0x39540;
         }
         // Module: vphysics2.dll
         namespace vphysics2_dll {

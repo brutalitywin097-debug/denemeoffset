@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-01-24 04:55:19.961343400 UTC
+// 2026-01-25 21:11:42.105397500 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -20,10 +20,6 @@ pub mod cs2_dumper {
             pub const Source2ClientConfig001: usize = 0x2285710;
             pub const Source2ClientPrediction001: usize = 0x2062760;
             pub const Source2ClientUI001: usize = 0x2073BE0;
-        }
-        // Module: crashhandler64.dll
-        pub mod crashhandler64_dll {
-            pub const : usize = 0xFFFF80017F420007;
         }
         // Module: engine2.dll
         pub mod engine2_dll {
@@ -188,7 +184,6 @@ pub mod cs2_dumper {
         }
         // Module: steamclient64.dll
         pub mod steamclient64_dll {
-            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB5193A;
             pub const IVALIDATE001: usize = 0x166F0A8;
             pub const SteamClient006: usize = 0x166C5B0;
             pub const SteamClient007: usize = 0x166C5B8;
@@ -221,6 +216,10 @@ pub mod cs2_dumper {
         // Module: v8system.dll
         pub mod v8system_dll {
             pub const Source2V8System001: usize = 0x316B0;
+        }
+        // Module: vconcomm.dll
+        pub mod vconcomm_dll {
+            pub const VConComm001: usize = 0x39540;
         }
         // Module: vphysics2.dll
         pub mod vphysics2_dll {
